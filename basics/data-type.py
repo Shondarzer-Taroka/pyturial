@@ -16,3 +16,5 @@ print(x.get('name'))
 w=5868768768j
 
 print(w)
+
+print(type(w))
